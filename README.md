@@ -19,6 +19,8 @@
 
 </details>
 
+<p>&nbsp;</p>
+
 <details>
 <summary><h2>Sales</h2></summary>
 
