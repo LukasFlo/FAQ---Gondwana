@@ -1,8 +1,7 @@
 ### Frequently Asked Questions - Gondwana
 
 
-<details>
-<summary><h2>General</h2></summary>
+<details> <summary><h2>General</h2></summary>
 <details>
 <summary>What products do we offer?</summary>
 
@@ -21,8 +20,7 @@
 
 <p>&nbsp;</p>
 
-<details>
-<summary><h2>Sales</h2></summary>
+<details> <summary><h2>Sales</h2></summary>
 
 <details>
 <summary>What is the company's mission?</summary>
